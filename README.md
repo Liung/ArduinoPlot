@@ -1,6 +1,6 @@
 ##ArduinoPlot##
 ArduinoPlot是在[原作者](https://github.com/gregpinero/ArduinoPlot)的基础上进行了改进设计。
-
+![ArduinoPlot](https://github.com/Liung/ArduinoPlot/raw/master/screen.PNG)
 ###主要改动###
 - 使用PyQt4模块，替换原来的wxPython模块
 - 允许改变端口参数，相比较原版本的文件内置端口，这点是一个相当灵活的改动
