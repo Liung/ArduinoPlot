@@ -1,3 +1,9 @@
+##ArduinoPlot##
+ArduinoPlot是在原作者的基础上进行了改进设计。
+
+###主要改动###
+- 使用PyQt4模块，替换原来的wxPython模块
+- 允许改变端口参数，相比较原版本的文件内置端口，这点是一个相当灵活的改动
 
 ### 原版本Read Me ###
 Shows a plot of numeric lines sent to serial port. 
