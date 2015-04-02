@@ -1,5 +1,5 @@
 ##ArduinoPlot##
-ArduinoPlot是在原作者的基础上进行了改进设计。
+ArduinoPlot是在[原作者](https://github.com/gregpinero/ArduinoPlot)的基础上进行了改进设计。
 
 ###主要改动###
 - 使用PyQt4模块，替换原来的wxPython模块
