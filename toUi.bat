@@ -1,0 +1,1 @@
+python C:\Anaconda\Lib\site-packages\PyQt4\uic\pyuic.py C:\Users\LC\Desktop\ArduinoPlot-master\ArduinoPlot\dyn_plot.ui -o C:\Users\LC\Desktop\ArduinoPlot-master\ArduinoPlot\dyn_plot_ui.py
